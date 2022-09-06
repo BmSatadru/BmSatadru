@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning - core mathematical concepts of Machinel Learning, NLP, Deep Learning & revisioning my Data Structure knowledge
 - 💞️ I’m looking to contribute on - Statistics & Mathematics theory behind Machine Learning, Deep Learning & NLP, Data Science Projects
 - 📫 How to reach me 
-     LinkedIn : https://www.linkedin.com/in/satadru-bhattacharya-551302210/
+     LinkedIn : https://www.linkedin.com/in/bmsatadru/
      Mail: work.satadru@gmail.com
 <!---
 BmSatadru/BmSatadru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
