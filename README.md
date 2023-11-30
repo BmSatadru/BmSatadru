@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BmSatadru
-- 👀 I’m interested in Data Science, Blockchain, Emotional Intelligence
+- 👀 I’m interested in Data Science, Statistics , Emotional Intelligence
 - 🌱 I’m currently learning - core mathematical concepts of Machinel Learning, NLP, Deep Learning & revisioning my Data Structure knowledge
 - 💞️ I’m looking to contribute on - Statistics & Mathematics theory behind Machine Learning, Deep Learning & NLP, Data Science Projects
 - 📫 How to reach me 
